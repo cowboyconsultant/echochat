@@ -1,0 +1,5 @@
+{
+  "name": "EchoChat - Contextual AI Messaging",
+  "description": "Analyze your communication patterns with different contacts using Gemini 2.5 Flash to generate context-aware, style-matched responses based on historical message data.",
+  "requestFramePermissions": []
+}
